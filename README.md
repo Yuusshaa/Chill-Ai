@@ -1,13 +1,13 @@
 # voice chatbot 🎙️🤖
 
-a chatbot i built while yelling WOOOOO at my terminal — currently 90% vibes, 10% chatbot, with dreams of one day controlling my laptop.
+a chatbot i built while yelling WOOOOO at my terminal ..currently 90% vibes, 10% chatbot, with dreams of one day controlling my laptop.
 
 ## what it does
 
 - talks back using Gemini (`gemini-3.8-flash`)
 - listens through your mic (speech-to-text) and replies out loud (text-to-speech)
 - remembers the conversation using rolling summarization instead of resending the whole history (so it doesn't eat tokens for breakfast)
-- can call tools to actually *do* things (starting with opening apps)
+- can call tools to actually *do* things (will add that later)
 
 ## tech stack
 
